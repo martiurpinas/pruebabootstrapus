@@ -64,7 +64,7 @@ body {
     .col-md-12 { width: 100%; }
 }
 
-/* Desktop */
+/* Ajuestes para la Media query (responsive) para Desktop */
 @media (min-width: 992px) {
     .col-lg-1 { width: 8.33%; }
     .col-lg-2 { width: 16.66%; }
@@ -80,7 +80,7 @@ body {
     .col-lg-12 { width: 100%; }
 }
 
-/* Barra de navegación */
+/* Ajuestes para la barra de navegación */
 .navbar {
     background: #1f618d;
     padding: 10px 0;
@@ -124,7 +124,7 @@ body {
     margin-top: 20px;
 }
 
-/* Tablas */
+/* Ajustes para las tablas */
 .tables-section {
     margin-top: 40px;
 }
